@@ -81,7 +81,7 @@ La aplicación tiene una estructura simple pero efectiva:
 | **Integrantes**       |                                    | **Rol**                             | **GitHub**                             | **LinkedIn**                           |
 |-----------------------|------------------------------------|--------------------------------------|-----------------------------------------|-----------------------------------------|
 | Miguel Ismerio        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Miguel.png" width="100" height="100" style="border-radius: 50%;"> | Data Scientist / Project Manager     | [GitHub](https://github.com/mikeismerio) | [LinkedIn](https://www.linkedin.com/in/miguel-ismerio/) |
-| Sergio González         | <img src="https://github.com/No-Country-simulation/S20-15-data/blob/main/img/Sergio.jpeg" width="100" height="100" style="border-radius: 50%;"> | Frontend Developer                  | [GitHub](#)                              | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)                            |
+| Sergio González         | <img src="https://github.com/No-Country-simulation/S20-15-data/blob/main/img/Sergio.jpeg" width="100" height="100" style="border-radius: 50%;"> | Frontend Developer                  | [GitHub](https://github.com/gonzalezrivera)                              | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)                            |
 
 ---
 
