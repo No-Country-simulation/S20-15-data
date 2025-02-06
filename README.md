@@ -1,6 +1,6 @@
 # 🎬 **Streamlit Recommender: Búsqueda detallada de series** 🎬
 
-![image](https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Portada.jpg)
+![image](https://github.com/No-Country-simulation/S20-15-data/blob/main/img/Portada.webp)
 
 ### 📝 **Índice**:
 
