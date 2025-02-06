@@ -73,9 +73,7 @@ La aplicación tiene una estructura simple pero efectiva:
 | **Microsoft Fabric** | <img src="https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming-old-version/Fabric_final_x256.png" width="100" height="100"> | Plataforma para la gestión y procesamiento de datos.                                     |
 | **Streamlit**        | <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="100" height="100">      | Herramienta para crear la interfaz de usuario.                                           |
 | **Python**           | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="100"> | Lenguaje utilizado para la limpieza y transformación de datos.                           |
-| **SQLAlchemy**       | <img src="https://avatars.githubusercontent.com/u/1473192?s=200&v=4" width="100" height="100">       | Librería para la conexión a la base de datos.                                            |
 | **Google Drive**     | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="100" height="100"> | Almacenamiento y sincronización de archivos.                                              |
-| **ClickUp**          | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ClickUp_Logo.svg/1024px-ClickUp_Logo.svg.png" width="100" height="100"> | Herramienta de gestión de proyectos.                                                     |
 
 ---
 
@@ -84,11 +82,7 @@ La aplicación tiene una estructura simple pero efectiva:
 | **Integrantes**       |                                    | **Rol**                             | **GitHub**                             | **LinkedIn**                           |
 |-----------------------|------------------------------------|--------------------------------------|-----------------------------------------|-----------------------------------------|
 | Miguel Ismerio        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Miguel.png" width="100" height="100" style="border-radius: 50%;"> | Data Scientist / Project Manager     | [GitHub](https://github.com/mikeismerio) | [LinkedIn](https://www.linkedin.com/in/miguel-ismerio/) |
-| Antonia Soler         | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Antonia.jpg" width="100" height="100" style="border-radius: 50%;"> | Frontend Developer                  | [GitHub](#)                              | [LinkedIn](#)                            |
-| Daniel Carrillo       | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Daniel.jpg" width="100" height="100" style="border-radius: 50%;"> | Backend Developer                   | [GitHub](#)                              | [LinkedIn](#)                            |
-| Esteban Gonzalez      | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Esteban.jpg" width="100" height="100" style="border-radius: 50%;"> | Data Scientist                      | [GitHub](#)                              | [LinkedIn](#)                            |
-| Lucel Da Silva        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Lucel.jpg" width="100" height="100" style="border-radius: 50%;"> | Data Analytics                      | [GitHub](#)                              | [LinkedIn](#)                            |
-| Nicolás Stassi        | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Nicolas.jpg" width="100" height="100" style="border-radius: 50%;"> | Data Analytics                      | [GitHub](#)                              | [LinkedIn](#)                            |
+| Sergio González         | <img src="https://github.com/No-Country-simulation/s18-18-t-data-bi/blob/main/img/Antonia.jpg" width="100" height="100" style="border-radius: 50%;"> | Frontend Developer                  | [GitHub](#)                              | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)                            |
 
 ---
 
