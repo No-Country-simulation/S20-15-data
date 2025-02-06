@@ -29,7 +29,7 @@ Nuestro recomendador de series está diseñado para:
 - **Interfaz amigable**: Presentar resultados claros y fáciles de explorar.
 
 Este proyecto está dirigido a:  
-- **Usuarios comunes**: Que desean optimizar su tiempo al buscar contenido.  
+- **Usuarios comunes**: Que desean optimizar su tiempo al buscar contenido de su interés.  
 - **Amantes del cine y las series**: Que quieren descubrir contenido basado en sus preferencias.  
 
 ---
