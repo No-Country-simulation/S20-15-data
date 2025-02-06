@@ -53,8 +53,7 @@ Los datos utilizados provienen del conjunto de datos de **TMDB**. Incluyen infor
 - Nombre de la serie  
 - Género(s)  
 - Red de transmisión  
-- Calificación y popularidad  
-- Actores principales  
+
 
 ---
 
